@@ -6,6 +6,8 @@
 #
 */bin
 lib/
+*/.vscode
+*/NuGet.Config
 
 # User-specific files
 *.rsuser
